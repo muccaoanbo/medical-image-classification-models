@@ -5,7 +5,7 @@ These instructions are for users of the code.
 *   Includes 6 classification models, which are efficientnet-b0, inception-V3, resnet50, swintransformer, vit, and visionmamba.
 *   The first five models are trained using notebooks. Vision Mamba is stored in the `vim` directory as `.py` files.
 *   For the code in the notebooks, first customize/define the dataset class, and then execute sequentially.
-*   For the code in the `vim` directory, first install the environment required for Mamba. Then run `dummy_main.py` for testing. If you need to use your own dataset, please use the `main.py` file and modify the `build_dataset` function within `datasets.py`.
+*   For the code in the `Vim/vim` directory, first install the environment required for Mamba. Then run `dummy_main.py` for testing. If you need to use your own dataset, please use the `main.py` file and modify the `build_dataset` function within `datasets.py`.
 *   If you encounter problems during the Mamba environment installation process, you can refer to CSDN: https://blog.csdn.net/leonardotu/article/details/136386581. You can install according to the following commands:
 
     ```bash
