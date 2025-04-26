@@ -1,0 +1,15 @@
+artifact_uri: file:///root/autodl-tmp/project/MedSAM-0.1/Vim/vim/mlruns/0/6513f982f70d468c89fc68692277c0f5/artifacts
+end_time: 1723384456928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6513f982f70d468c89fc68692277c0f5
+run_name: vim_small_patch16_stride8_224_bimambav2_final_pool_mean_abs_pos_embed_with_midclstok_div2
+run_uuid: 6513f982f70d468c89fc68692277c0f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723383905422
+status: 3
+tags: []
+user_id: root
