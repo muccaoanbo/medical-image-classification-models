@@ -1,1 +1,1 @@
-print("test from main-test")
+print("test from main")
