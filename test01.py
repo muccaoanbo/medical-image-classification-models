@@ -1,1 +1,1 @@
-print("hello") # 打印测试
+print("test from main") # 打印测试
